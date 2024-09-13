@@ -1,0 +1,16 @@
+{
+  "name": "ai-code-reviewer",
+  "version": "1.0.0",
+  "description": "This GitHub action repository allows for affordable AI code reviews with the support of GPT-4o mini and the users respective OpenAI API key.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}

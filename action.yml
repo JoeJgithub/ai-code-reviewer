@@ -1,0 +1,7 @@
+name: AI Code Reviewer By JoeJgithub
+description: 'This action will use GPT4o-mini to review your PR and provide feedback on how to improve it.'
+author: 'JoeJgithub'
+
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
